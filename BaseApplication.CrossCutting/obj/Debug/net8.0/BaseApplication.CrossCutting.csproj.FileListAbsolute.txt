@@ -1,0 +1,17 @@
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/bin/Debug/net8.0/BaseApplication.CrossCutting.deps.json
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/bin/Debug/net8.0/BaseApplication.CrossCutting.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/bin/Debug/net8.0/BaseApplication.CrossCutting.pdb
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/bin/Debug/net8.0/BaseApplication.Core.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/bin/Debug/net8.0/BaseApplication.Domain.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/bin/Debug/net8.0/BaseApplication.Domain.pdb
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/bin/Debug/net8.0/BaseApplication.Core.pdb
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/Debug/net8.0/BaseApplication.CrossCutting.csproj.AssemblyReference.cache
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/Debug/net8.0/BaseApplication.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/Debug/net8.0/BaseApplication.CrossCutting.AssemblyInfoInputs.cache
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/Debug/net8.0/BaseApplication.CrossCutting.AssemblyInfo.cs
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/Debug/net8.0/BaseApplication.CrossCutting.csproj.CoreCompileInputs.cache
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/Debug/net8.0/BaseAppl.00D0434B.Up2Date
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/Debug/net8.0/BaseApplication.CrossCutting.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/Debug/net8.0/refint/BaseApplication.CrossCutting.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/Debug/net8.0/BaseApplication.CrossCutting.pdb
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/Debug/net8.0/ref/BaseApplication.CrossCutting.dll

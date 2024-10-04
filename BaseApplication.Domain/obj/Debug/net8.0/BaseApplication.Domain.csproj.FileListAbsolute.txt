@@ -1,0 +1,15 @@
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/bin/Debug/net8.0/BaseApplication.Domain.deps.json
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/bin/Debug/net8.0/BaseApplication.Domain.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/bin/Debug/net8.0/BaseApplication.Domain.pdb
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/bin/Debug/net8.0/BaseApplication.Core.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/bin/Debug/net8.0/BaseApplication.Core.pdb
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/Debug/net8.0/BaseApplication.Domain.csproj.AssemblyReference.cache
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/Debug/net8.0/BaseApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/Debug/net8.0/BaseApplication.Domain.AssemblyInfoInputs.cache
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/Debug/net8.0/BaseApplication.Domain.AssemblyInfo.cs
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/Debug/net8.0/BaseApplication.Domain.csproj.CoreCompileInputs.cache
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/Debug/net8.0/BaseAppl.99E991B0.Up2Date
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/Debug/net8.0/BaseApplication.Domain.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/Debug/net8.0/refint/BaseApplication.Domain.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/Debug/net8.0/BaseApplication.Domain.pdb
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/Debug/net8.0/ref/BaseApplication.Domain.dll

@@ -1,0 +1,488 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Api/BaseApplication.Api.csproj": {}
+  },
+  "projects": {
+    "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Api/BaseApplication.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Api/BaseApplication.Api.csproj",
+        "projectName": "BaseApplication.Api",
+        "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Api/BaseApplication.Api.csproj",
+        "packagesPath": "/home/pedro/.nuget/packages/",
+        "outputPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pedro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Infra/BaseApplication.Infra.csproj": {
+                "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Infra/BaseApplication.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/pedro/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/BaseApplication.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/BaseApplication.Core.csproj",
+        "projectName": "BaseApplication.Core",
+        "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/BaseApplication.Core.csproj",
+        "packagesPath": "/home/pedro/.nuget/packages/",
+        "outputPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pedro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Slugify.Core": {
+              "target": "Package",
+              "version": "[5.0.0-prerelease.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/pedro/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/BaseApplication.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/BaseApplication.CrossCutting.csproj",
+        "projectName": "BaseApplication.CrossCutting",
+        "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/BaseApplication.CrossCutting.csproj",
+        "packagesPath": "/home/pedro/.nuget/packages/",
+        "outputPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pedro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/BaseApplication.Domain.csproj": {
+                "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/BaseApplication.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/pedro/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/BaseApplication.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/BaseApplication.Domain.csproj",
+        "projectName": "BaseApplication.Domain",
+        "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/BaseApplication.Domain.csproj",
+        "packagesPath": "/home/pedro/.nuget/packages/",
+        "outputPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pedro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/BaseApplication.Core.csproj": {
+                "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/BaseApplication.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/pedro/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Infra/BaseApplication.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Infra/BaseApplication.Infra.csproj",
+        "projectName": "BaseApplication.Infra",
+        "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Infra/BaseApplication.Infra.csproj",
+        "packagesPath": "/home/pedro/.nuget/packages/",
+        "outputPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pedro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/BaseApplication.Domain.csproj": {
+                "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/BaseApplication.Domain.csproj"
+              },
+              "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Services/BaseApplication.Services.csproj": {
+                "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Services/BaseApplication.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.NpgSql": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.Identity.Web.MicrosoftGraph": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/pedro/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Services/BaseApplication.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Services/BaseApplication.Services.csproj",
+        "projectName": "BaseApplication.Services",
+        "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Services/BaseApplication.Services.csproj",
+        "packagesPath": "/home/pedro/.nuget/packages/",
+        "outputPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pedro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/BaseApplication.CrossCutting.csproj": {
+                "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.CrossCutting/BaseApplication.CrossCutting.csproj"
+              },
+              "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/BaseApplication.Domain.csproj": {
+                "projectPath": "/home/pedro/RiderProjects/BaseApplication/BaseApplication.Domain/BaseApplication.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/pedro/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

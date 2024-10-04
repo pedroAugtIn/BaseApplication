@@ -1,0 +1,12 @@
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/bin/Debug/net8.0/BaseApplication.Core.deps.json
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/bin/Debug/net8.0/BaseApplication.Core.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/bin/Debug/net8.0/BaseApplication.Core.pdb
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/obj/Debug/net8.0/BaseApplication.Core.csproj.AssemblyReference.cache
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/obj/Debug/net8.0/BaseApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/obj/Debug/net8.0/BaseApplication.Core.AssemblyInfoInputs.cache
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/obj/Debug/net8.0/BaseApplication.Core.AssemblyInfo.cs
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/obj/Debug/net8.0/BaseApplication.Core.csproj.CoreCompileInputs.cache
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/obj/Debug/net8.0/BaseApplication.Core.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/obj/Debug/net8.0/refint/BaseApplication.Core.dll
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/obj/Debug/net8.0/BaseApplication.Core.pdb
+/home/pedro/RiderProjects/BaseApplication/BaseApplication.Core/obj/Debug/net8.0/ref/BaseApplication.Core.dll
